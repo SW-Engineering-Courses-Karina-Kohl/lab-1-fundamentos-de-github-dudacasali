@@ -3,6 +3,10 @@ Esta é a versão inicial do arquivo.
 
 editing intro.txt
 
+teste mudança arq.
+
 modifying feature-branch
+
+teste novo branch
 
 modifying feature-branch 2
