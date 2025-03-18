@@ -7,4 +7,6 @@ teste mudança arq.
 
 modifying feature-branch
 
+teste novo branch
+
 modifying feature-branch 2
